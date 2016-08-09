@@ -11,7 +11,7 @@ http://hid.ugotsta.com/
 
 The page is composed of simple HTML and some CSS3 stlying and animations. No JavaScript is involved.
 
-# Flickering background
+### Flickering background
 
 The background flicker is achieved using a CSS animation on a div with absolute positioning and with a soft, radial gradient for the background. The div is given an id of 'shakewrap'.
 
@@ -57,7 +57,7 @@ Shakewrap styling:
 }
 ```
 
-# Shaky hover effect
+### Shaky hover effect
 
 Anchor links are given a subtle shake effect when hovered over, again using a CSS animation.
 
@@ -89,7 +89,7 @@ a:hover {
 }
 ```
 
-# Glow effect
+### Glow effect
 
 A subtle glow effect is used for the container div wrapping the text. It relies on a simple transition which is then applied in the container's styling.
 
