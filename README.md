@@ -1,4 +1,4 @@
-Check it out here: https://ugotsta.github.io/eerie-css/
+Check it out here: r3v1z3.github.io/eerie-css/
 
 # Eerie CSS
 
